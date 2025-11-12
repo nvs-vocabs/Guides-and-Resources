@@ -6,9 +6,10 @@ The NERC Vocabulary Server (NVS) makes use of the World Wide Web Consortium's (W
 
 ## What is a concept?
 
-A concept is an idea or notion; a unit of thought that can be clearly described. A concept is formally identified by a Unique resource Identifier (URI), and can be connected to other concepts through relationships, known as mappings (more info below).
+A concept is an idea or notion; a unit of thought that can be clearly described. A concept is formally identified by a Unique Resource Identifier (URI), and can be connected to other concepts through relationships, known as mappings (more info below).
 
 Example:  http://vocab.nerc.ac.uk/collection/L22/current/TOOL2179/ describes a specific dissolved oxygen sensor.
+
 Example: http://vocab.nerc.ac.uk/collection/P01/current/DOXYZZ01/ describes the parameter measured by the dissolved oxygen sensor.
 
 ## What is a collection or controlled vocabulary?
