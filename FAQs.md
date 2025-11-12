@@ -31,7 +31,7 @@ Example: A concept for "mammals" in one collection might have skos:broadMatch to
 
 ## Summary:
 
-Using SKOS, concepts can be
+Using SKOS, concepts can be:
 - Uniquely identified using Unique Resource Identifiers (URIs)
 - Linked to other concepts through semantic relations
 - Organised into informal hierarchies and association networks through: 
