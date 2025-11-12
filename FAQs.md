@@ -44,6 +44,6 @@ Using SKOS, concepts can be:
 
 For a scientific dataset for example, the metadata about what was measured, when, where, how, why and by who are all important pieces of information that provide the context surrounding the dataset. Individual concept URIs from various controlled vocabularies can be used in place of free text headings or attributes within data files, to ensure we are all talking the same language when describing a dataset.
 
-The information described within a unique concept from a controlled vocabulary is organised in a standardised way, so that unabmiguous consistent meaning can be derived. The structure ensures the information is not only human-readable, but machine-readable, which is the key to enabling datasets from different sources to become comparable and interoperable.
+The information described within a unique concept from a controlled vocabulary is organised in a standardised way, so that unambiguous consistent meaning can be derived. The structure ensures the information is not only human-readable, but machine-readable, which is the key to enabling datasets from different sources to become comparable and interoperable.
 
 An introduction to controlled vocabularies can be viewed here: https://youtu.be/kKOiPxq6E5M?t=112
