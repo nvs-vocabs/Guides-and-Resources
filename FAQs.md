@@ -40,6 +40,10 @@ Using SKOS, concepts can be:
   - grouping into labelled and/or ordered collections
   - mapping to concepts in other collections or schemes
  
+## What is the difference between a URI vs URL?
+
+A URI is identified by the use of http:// as opposed to https://. The URL relates to the location of the concept; the landing page for a concept on the NVS is tranlsated through the secure protocol https://, but the URI (using http://) is used as part of the persistent identifier for the conecept.
+
 ## Why should I use controlled vocabularies for my dataset(s)?
 
 For a scientific dataset for example, the metadata about what was measured, when, where, how, why and by who are all important pieces of information that provide the context surrounding the dataset. Individual concept URIs from various controlled vocabularies can be used in place of free text headings or attributes within data files, to ensure we are all talking the same language when describing a dataset.
