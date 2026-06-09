@@ -24,3 +24,4 @@ This approach is common across the semantic web community; many well-established
 
 The key point is that a URI should be treated as a persistent identifier, while a URL represents a particular way of retrieving the resource.
 When recording a controlled vocabulary term or other persistent identifier, use the URI supplied by the authoritative source. Systems and web browsers can then resolve that identifier using the most appropriate access method.
+Note: trailing slashes are part of every concept and collection in the NVS, as hierarchies and versioning are included in the URIs (e.g. http://vocab.nerc.ac.uk/collection/OG1/current/DPAR/1/ for version 1 of the concept). Users are therefore advised to use the trailing slash when referencing concepts or collections (e.g. http://vocab.nerc.ac.uk/collection/P01/current/ or http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01/).
