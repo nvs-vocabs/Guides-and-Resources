@@ -1,6 +1,6 @@
-# URI versus URL
+# HTTP versus HTTPS
 
-A URI (Uniform Resource Identifier) identifies a resource, whereas a URL (Uniform Resource Locator) describes how to access that resource. 
+The distinction between `HTTP` and `HTTPS` is related to the distinction between a URI (Uniform Resource Identifier) and a URL (Uniform Resource Locator). A URI identifies a resource, whereas a URL describes how to access that resource. 
 
 For example:
 
