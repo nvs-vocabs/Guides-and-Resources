@@ -40,9 +40,17 @@ Using SKOS, concepts can be:
   - grouping into labelled and/or ordered collections
   - mapping to concepts in other collections or schemes
  
-## What is the difference between a URI vs URL?
+## What is the difference between HTTP versus HTTPS (URI versus URL)?
 
-A URI is identified by the use of http:// as opposed to https://. The URL relates to the location of the concept; the landing page for a concept on the NVS is tranlsated through the secure protocol https://, but the URI (using http://) is used as part of the persistent identifier for the conecept.
+The distinction between HTTP and HTTPS is related to the distinction between a URI (Uniform Resource Identifier) and a URL (Uniform Resource Locator) for a concept. A URI identifies a resource, whereas a URL describes how to access that resource.
+
+For example:
+
+URI: http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01/
+
+URL: https://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01/
+
+Both refer to the same concept, but the URI itself is part of the persistent identifier for the concept, whereas HTTPS URL describes the current secure access method. Click [here](/HTTP%20versus%20HTTPS.md) for further information.
 
 ## Why should I use controlled vocabularies for my dataset(s)?
 
@@ -50,4 +58,4 @@ For a scientific dataset for example, the metadata about what was measured, when
 
 The information described within a unique concept from a controlled vocabulary is organised in a standardised way, so that unambiguous consistent meaning can be derived. The structure ensures the information is not only human-readable, but machine-readable, which is the key to enabling datasets from different sources to become comparable and interoperable.
 
-An introduction to controlled vocabularies can be viewed here: https://youtu.be/kKOiPxq6E5M?t=112
+An introduction to controlled vocabularies can be viewed [here](https://youtu.be/kKOiPxq6E5M?t=112).
